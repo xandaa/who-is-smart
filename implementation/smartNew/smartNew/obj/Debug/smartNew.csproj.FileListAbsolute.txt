@@ -1,0 +1,28 @@
+C:\Users\Jishta\Documents\Visual Studio 2008\Projects\smartNew\smartNew\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jishta\Documents\Visual Studio 2008\Projects\smartNew\smartNew\obj\Debug\smartNew.add.resources
+C:\Users\Jishta\Documents\Visual Studio 2008\Projects\smartNew\smartNew\obj\Debug\smartNew.Admin.resources
+C:\Users\Jishta\Documents\Visual Studio 2008\Projects\smartNew\smartNew\obj\Debug\smartNew.begin.resources
+C:\Users\Jishta\Documents\Visual Studio 2008\Projects\smartNew\smartNew\obj\Debug\smartNew.exam.resources
+C:\Users\Jishta\Documents\Visual Studio 2008\Projects\smartNew\smartNew\obj\Debug\smartNew.Login.resources
+C:\Users\Jishta\Documents\Visual Studio 2008\Projects\smartNew\smartNew\obj\Debug\smartNew.Home.resources
+C:\Users\Jishta\Documents\Visual Studio 2008\Projects\smartNew\smartNew\obj\Debug\smartNew.Properties.Resources.resources
+C:\Users\Jishta\Documents\Visual Studio 2008\Projects\smartNew\smartNew\obj\Debug\smartNew.result.resources
+C:\Users\Jishta\Documents\Visual Studio 2008\Projects\smartNew\smartNew\obj\Debug\smartNew.csproj.GenerateResource.Cache
+C:\Users\Jishta\Documents\Visual Studio 2008\Projects\smartNew\smartNew\bin\Debug\smartNew.exe
+C:\Users\Jishta\Documents\Visual Studio 2008\Projects\smartNew\smartNew\bin\Debug\smartNew.pdb
+C:\Users\Jishta\Documents\Visual Studio 2008\Projects\smartNew\smartNew\obj\Debug\smartNew.exe
+C:\Users\Jishta\Documents\Visual Studio 2008\Projects\smartNew\smartNew\obj\Debug\smartNew.pdb
+E:\smartNew\smartNew\obj\Debug\smartNew.exe
+E:\smartNew\smartNew\obj\Debug\smartNew.pdb
+E:\smartNew\smartNew\obj\Debug\ResolveAssemblyReference.cache
+E:\smartNew\smartNew\obj\Debug\smartNew.add.resources
+E:\smartNew\smartNew\obj\Debug\smartNew.Admin.resources
+E:\smartNew\smartNew\obj\Debug\smartNew.begin.resources
+E:\smartNew\smartNew\obj\Debug\smartNew.exam.resources
+E:\smartNew\smartNew\obj\Debug\smartNew.Login.resources
+E:\smartNew\smartNew\obj\Debug\smartNew.Home.resources
+E:\smartNew\smartNew\obj\Debug\smartNew.Properties.Resources.resources
+E:\smartNew\smartNew\obj\Debug\smartNew.result.resources
+E:\smartNew\smartNew\obj\Debug\smartNew.csproj.GenerateResource.Cache
+E:\smartNew\smartNew\bin\Debug\smartNew.exe
+E:\smartNew\smartNew\bin\Debug\smartNew.pdb
