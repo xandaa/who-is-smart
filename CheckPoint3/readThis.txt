@@ -1,0 +1,6 @@
+smart - Our Database
+smartNew - Our Program
+
+login admin:
+	name: admin
+	pass:123
